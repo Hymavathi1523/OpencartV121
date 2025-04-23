@@ -1,0 +1,19 @@
+07:31:58.480[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\master.xml"
+07:31:58.808[main]%5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpencartV121\master.xml
+
+07:32:38.007[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\crossbrowsertesting.xml"
+07:32:38.268[main]%5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+15:23:35.062[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\grouping.xml"
+06:14:35.710[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\master.xml"
+06:16:29.117[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\master.xml"
+06:16:29.408[main]%5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpencartV121\master.xml
+
+06:22:46.519[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\master.xml"
+06:22:46.741[main]%5-level org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpencartV121\master.xml
+
+15:22:07.110[main]%5-level org.testng.TestNG -suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\master.xml"
